@@ -94,7 +94,7 @@ nav {
   width: clamp(120px, 14vw, 220px);
   aspect-ratio: 1/1;
   margin: clamp(.5rem, 3svh, 2rem) auto 1rem;
-  border-radius: 30px; background: rgba(255,255,255,.06);
+  border-radius: 30px; background: rgba(0, 0, 0, 0.06);
 }
 .hero-logo-img{ width:100%; height:100%; object-fit: contain; border-radius: 30px; padding: 10px; }
 
