@@ -85,8 +85,9 @@ nav {
     /* ... outras regras para mobile ... */
 
     .hero-logo-img-container {
-        width: 170px; /* Tamanho menor para mobile */
-        height: 170px; /* Tamanho menor para mobile */
+        width: 150px; /* Tamanho menor para mobile */
+        height: 150px; /* Tamanho menor para mobile */
+        margin-top: 10rem;
     }
 }
 
