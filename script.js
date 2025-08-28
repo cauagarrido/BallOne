@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Opcional: transição automática a cada 5 segundos
     setInterval(() => {
         nextButton.click();
-    }, 5000);
+    }, 8000);
 });
 
 // Funções do rodapé
